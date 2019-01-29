@@ -23,4 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.ibb.co/zHGcFMw/Twitter-1.gif" width=250><br>
+
+![](https://github.com/lee3072/twitter_ios_starter/blob/master/Twitter_1.gif)
+
